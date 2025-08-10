@@ -17,6 +17,7 @@ public:
                          }
                              else{
                                 cnt=max(cnt,i-st.top());
+                                // cnt=i-st.top();
                              }
                       
                       }
